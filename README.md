@@ -15,7 +15,7 @@ This project audits 25 years of FDA import refusal data to identify systemic ris
 * **Insight:** Fishery/Seafood refusals peaked early (2011-2012) with over 2,800 incidents.
 * **Emerging Risk:** Snack foods have surged to become the top refusal category in 2022 & 2025.
 * **The COVID Gap:** A massive drop in recorded refusals occurred in 2020 due to reduced border inspections.
-![Temporal Analysi](Refusals_Trend_2011_2025.png)
+![Temporal Analysi](Refusals_Trend_2001_2025.png)
 
 #### 2. Geographic Risk
 * **Insight:** Despite importing from 188 countries, **Asian nations** (China, India) and **Mexico** dominate the refusal rankings. This suggests a need for targeted supplier verification programs in these regions.
